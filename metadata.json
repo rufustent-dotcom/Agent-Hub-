@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Agent Hub \u0026 Monetization Portal",
+  "description": "An AI-Agent-Hub monetization dashboard with premium agent skills storefront, dynamic Stripe \u0026 PayPal checkout simulators, client analytics graphs, and a real Gemini-powered execution sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
